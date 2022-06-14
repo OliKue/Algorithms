@@ -5,8 +5,8 @@ import java.util.List;
  * Quick Sort Complexity
  *
  * Time Complexity
- * Best:    O(n^2)
- * Worst:   O(n*log n)
+ * Best:    O(n*log n)
+ * Worst:   O(n^2)
  * Aver.:   O(n*log n)
  *
  */

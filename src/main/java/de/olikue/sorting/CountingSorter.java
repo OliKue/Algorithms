@@ -2,7 +2,15 @@ package de.olikue.sorting;
 
 import java.util.Collections;
 import java.util.List;
-
+/**
+ * Counting Sort Complexity
+ *
+ * Time Complexity
+ * Best:    O(n+k)
+ * Worst:   O(n+k)
+ * Aver.:   O(n+k)
+ *
+ */
 public class CountingSorter extends Sorter {
     @Override
     public List<Integer> sortIntegerList(List<Integer> integerList) {
