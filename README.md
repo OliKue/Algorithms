@@ -25,3 +25,7 @@ public abstract class Sorter {
 n is the count of elements in the input
 
 k is the higest element
+
+## Searching algorithm(s)
+
+Implemented recursive and iterative binary search. 
